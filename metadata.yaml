@@ -1,0 +1,38 @@
+_repo: The-luckless-trapper-or-The-haunted-hunter_68371
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Eyster, William R. (William Reynolds)
+    alias: Eyster, Wm. R. (William Reynolds)
+    birthdate: 1841
+    deathdate: 1918
+    gutenberg_agent_id: '47366'
+    url: http://www.gutenberg.org/2009/agents/47366
+description: ''
+gutenberg_issued: '2022-06-21'
+identifiers:
+  gutenberg: '68371'
+language: en
+pgterms:marc905: 20200424120133various
+pgterms:marc906: '1872'
+pgterms:marc907: US
+production_note: David Edwards, Mary Meehan and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (Northern Illinois University Digital Library)
+publication_note: United States :Beadle and Adams,1872,copyright 1884.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Beadle's Pocket Novels No. 62
+subjects:
+- !lcsh 'Triangles (Interpersonal relations) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Apparitions -- Fiction'
+- !lcsh 'African Americans -- Fiction'
+- !lcsh 'Missing persons -- Investigation -- Fiction'
+- !lcsh 'Hunters -- Fiction'
+- !lcsh 'Northwestern States -- Fiction'
+- !lcsh 'Indians of North America -- Fiction'
+- !lcsh 'Trappers -- Fiction'
+- GITenberg
+title: The luckless trapper; or, The haunted hunter
+url: http://www.gutenberg.org/ebooks/68371
